@@ -20,3 +20,10 @@ the community and my own research.
   <a title="Linux"><img src="https://github.com/FutzMonitor/FutzMonitor/blob/main/icon/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
   <a href="https://vuejs.org/" title="Vue"><img src="https://github.com/FutzMonitor/FutzMonitor/blob/main/icon/vue.svg" alt="Vue" width="21px" height="21px"></a>
   <a href="https://zulip.com" title="Zulip"><img src="https://github.com/FutzMonitor/FutzMonitor/blob/main/icon/zulip.svg" alt="Zulip" width="21px" height="21px"></a>
+  
+<br/>
+<br/>
+<a href="https://github.com/FutzMonitor">
+  <img width=480em src="https://github-readme-stats-eight-theta.vercel.app/api?username=FutzMonitor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars" />
+ <!-- <img width=350em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FutzMonitor&layout=compact&langs_count=8&theme=dracula" /> -->
+</a>
