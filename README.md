@@ -20,15 +20,15 @@
 </details>
 
 
-<details open> 
+<!-- <details open> 
   <summary><h2>Tech Stack 📈</h2></summary>
    <table>
      <tr>
         <img src="https://streak-stats.demolab.com?user=FutzMonitor&theme=vue-dark&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats">
      </tr>
      <tr>
-        <!--<img src="https://github-readme-stats.vercel.app/api?username=FutzMonitor&show_icons=true&theme=cobalt">-->
+        <img src="https://github-readme-stats.vercel.app/api?username=FutzMonitor&show_icons=true&theme=cobalt">
      </tr>
    </table>
-</details>
+</details> -->
 
