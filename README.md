@@ -1,4 +1,4 @@
-<h2 align="left">Hey there 🌊! I'm Chris, and I'm a open source dev looking for projects to contribute to ⛏</h2>
+<h2 align="left">Hey there 🌊! Just an open source dev looking for projects to contribute to ⛏</h2>
 
 ###
 
