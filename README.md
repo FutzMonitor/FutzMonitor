@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1350139667416350800/1350139744058736660/Algorithm_Angel.gif?ex=67d5a71f&is=67d4559f&hm=c35cda6ebeee49df370d7efdc9f7a32085a50e9d0e22fcbb5e9e812ccaab4f16&"  />
+<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd1NzN5anQ1MGU1eDA2dW1mN25meXcwYnJtdTlrMWgwZmswZ3IxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WNuixEiToFrmR2lB7z/giphy.gif"/>
 
 ###
 
@@ -70,3 +70,13 @@
 <img src="https://raw.githubusercontent.com/FutzMonitor/FutzMonitor/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/vzalgo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vzalgo&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+
