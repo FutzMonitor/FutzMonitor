@@ -1,4 +1,4 @@
-<h3 align="center">Hey there 🌊! I'm Chris, and I'm a open source dev looking for projects to contribute to ⛏.</h3>
+<h2 align="left">Hey there 🌊! I'm Chris, and I'm a open source dev looking for projects to contribute to ⛏</h2>
 
 ###
 
@@ -9,25 +9,9 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd1NzN5anQ1MGU1eDA2dW1mN25meXcwYnJtdTlrMWgwZmswZ3IxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WNuixEiToFrmR2lB7z/giphy.gif"/>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWRzemNsc2k5dHN3Y3RmNGc2amd5eHV0eXJlNW5veW1seHNxNXJzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
 ###
-
-<div align="left">
-  <a href="FutzMonitor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:futzscreen.cg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/futz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
@@ -42,6 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -49,8 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -65,6 +49,20 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/futz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:futzscreen.cg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="FutzMonitor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/FutzMonitor/FutzMonitor/output/snake.svg" alt="Snake animation" />
@@ -73,10 +71,11 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/vzalgo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vzalgo&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vzalgo&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
 
 
